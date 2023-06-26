@@ -1,0 +1,234 @@
+{
+  "home_screen_response_array": [
+    {
+      "title": "Popular Series",
+      "items": [
+        {
+          "title": "Big Mouth",
+          "icon": "https://i.postimg.cc/wM8Tx4fG/ic-series-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Alias Grace",
+          "icon": "https://i.postimg.cc/4ykpcgNv/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wild Wild Country",
+          "icon": "https://i.postimg.cc/4y64YvjN/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Five Came Back",
+          "icon": "https://i.postimg.cc/x8vMy4cw/ic-series-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Stranger Things",
+          "icon": "https://i.postimg.cc/T2g3NGhM/ic-tv-show-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wednesday",
+          "icon": "https://i.postimg.cc/VLwL3TbS/ic-tv-show-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "The Witcher",
+          "icon": "https://i.postimg.cc/hP0Pgr92/ic-tv-show-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Never Have I Ever",
+          "icon": "https://i.postimg.cc/52N9tCgb/ic-tv-show-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Popular Movies",
+      "items": [
+        {
+          "title": "Leave No Trace",
+          "icon": "https://i.postimg.cc/RZXF1RhW/ic-movie-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "His House",
+          "icon": "https://i.postimg.cc/R0h0gHJX/ic-movie-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Crimp Camp",
+          "icon": "https://i.postimg.cc/N0njSj1Y/ic-movie-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Descendant",
+          "icon": "https://i.postimg.cc/Hx7kg12M/ic-movie-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Popular Shows",
+      "items": [
+        {
+          "title": "Stranger Things",
+          "icon": "https://i.postimg.cc/T2g3NGhM/ic-tv-show-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wednesday",
+          "icon": "https://i.postimg.cc/VLwL3TbS/ic-tv-show-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "The Witcher",
+          "icon": "https://i.postimg.cc/hP0Pgr92/ic-tv-show-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Never Have I Ever",
+          "icon": "https://i.postimg.cc/52N9tCgb/ic-tv-show-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Big Mouth",
+          "icon": "https://i.postimg.cc/wM8Tx4fG/ic-series-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Alias Grace",
+          "icon": "https://i.postimg.cc/4ykpcgNv/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wild Wild Country",
+          "icon": "https://i.postimg.cc/4y64YvjN/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Five Came Back",
+          "icon": "https://i.postimg.cc/x8vMy4cw/ic-series-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Popular Series",
+      "items": [
+        {
+          "title": "Big Mouth",
+          "icon": "https://i.postimg.cc/wM8Tx4fG/ic-series-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Alias Grace",
+          "icon": "https://i.postimg.cc/4ykpcgNv/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wild Wild Country",
+          "icon": "https://i.postimg.cc/4y64YvjN/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Five Came Back",
+          "icon": "https://i.postimg.cc/x8vMy4cw/ic-series-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Stranger Things",
+          "icon": "https://i.postimg.cc/T2g3NGhM/ic-tv-show-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wednesday",
+          "icon": "https://i.postimg.cc/VLwL3TbS/ic-tv-show-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "The Witcher",
+          "icon": "https://i.postimg.cc/hP0Pgr92/ic-tv-show-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Never Have I Ever",
+          "icon": "https://i.postimg.cc/52N9tCgb/ic-tv-show-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Popular Movies",
+      "items": [
+        {
+          "title": "Leave No Trace",
+          "icon": "https://i.postimg.cc/RZXF1RhW/ic-movie-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "His House",
+          "icon": "https://i.postimg.cc/R0h0gHJX/ic-movie-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Crimp Camp",
+          "icon": "https://i.postimg.cc/N0njSj1Y/ic-movie-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Descendant",
+          "icon": "https://i.postimg.cc/Hx7kg12M/ic-movie-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Popular Shows",
+      "items": [
+        {
+          "title": "Stranger Things",
+          "icon": "https://i.postimg.cc/T2g3NGhM/ic-tv-show-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wednesday",
+          "icon": "https://i.postimg.cc/VLwL3TbS/ic-tv-show-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "The Witcher",
+          "icon": "https://i.postimg.cc/hP0Pgr92/ic-tv-show-3.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Never Have I Ever",
+          "icon": "https://i.postimg.cc/52N9tCgb/ic-tv-show-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Big Mouth",
+          "icon": "https://i.postimg.cc/wM8Tx4fG/ic-series-1.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Alias Grace",
+          "icon": "https://i.postimg.cc/4ykpcgNv/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Wild Wild Country",
+          "icon": "https://i.postimg.cc/4y64YvjN/ic-series-2.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        },
+        {
+          "title": "Five Came Back",
+          "icon": "https://i.postimg.cc/x8vMy4cw/ic-series-4.jpg",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"
+        }
+      ]
+    }
+  ]
+}
